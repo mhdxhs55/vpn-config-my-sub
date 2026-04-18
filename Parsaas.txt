@@ -1,0 +1,3 @@
+vless://7dbfbcc5-262c-4059-a746-4beacaf61141@abr.superip.ir:2052?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=library.phill-up.ir#%F0%9F%87%AB%F0%9F%87%AE3
+vless://7dbfbcc5-262c-4059-a746-4beacaf61141@abr.superip.ir:80?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=brand2.bi6x.ir#%F0%9F%87%B1%F0%9F%87%BA2
+vless://7dbfbcc5-262c-4059-a746-4beacaf61141@abr.superip.ir:8080?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=library.phill-up.ir#%F0%9F%87%A6%F0%9F%87%AA1
